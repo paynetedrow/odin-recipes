@@ -1,0 +1,29 @@
+.one{
+    background-color: rgb(218, 73, 16);
+    color: blue;
+}
+
+.two{
+    background-color: blue;
+    color: rgb(218, 73, 16);
+}
+
+.one,
+.two{
+text-align: center;
+font-size: 50px;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+display: block;
+}
+
+.body{
+    background-color: black;
+}
+
+.heading{
+    color: white;
+    font-size: 75px;
+    text-align: center;
+}
+
+
