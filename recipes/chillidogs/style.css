@@ -1,0 +1,47 @@
+.background{
+    background-color: black;
+}
+
+.mainheading{
+    background-color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: rgb(218, 73, 16);
+    font-size: 65px;
+}
+
+.image{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+
+.image-text{
+    color: orangered;
+    text-align: center;
+    font-size: 50px;
+    background-color: blue;
+}
+
+.para{
+    color: blue;
+    text-align: center;
+    background-color: orangered;
+    font-size: 22px;
+}
+
+div {
+    color: blue;
+    text-align: center;
+    list-style-position: inside;
+    font-size: 20px;
+    background-color: orangered;
+}
+
+.list-heading{
+    color: blue;
+    font-size: 50px;
+    text-align: center;
+    background-color: orangered;
+}
